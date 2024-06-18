@@ -25,8 +25,8 @@
 ```
 git clone https://github.com/AuroraEchos/SentimentAnalysis.git
 cd SentimentAnalysis
-makedir bert_model_files
-makedir saved_models
+mkdir bert_model_files
+mkdir saved_models
 pip install -r requirements.txt
 ```
 
